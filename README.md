@@ -2,9 +2,9 @@
 
 [Personal website](https://jintangme.github.io/) · [Email](mailto:tangj41824@gmail.com)
 
-I am an Artificial Intelligence undergraduate at Beijing Normal-Hong Kong Baptist University (BNBU). Alongside my studies, I have gained experience through academic research, internships, and independent software projects.
+I am an Artificial Intelligence undergraduate at Beijing Normal-Hong Kong Baptist University (BNBU). I have worked on research and software projects involving AI agents, blockchain applications, and service computing. My experience also includes full-stack and mobile application development.
 
-### Research
+### Publication
 
 My first-author paper, *Compatibility and QoS-Aware Web API Recommendation for Efficient Mashup Design*, was accepted by the *International Journal of Web Information Systems* in June 2026. Formal publication is pending.
 
