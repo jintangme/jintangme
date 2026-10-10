@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Jin Tang — Learning by building.</title>
+  <desc id="desc">A restrained vintage terminal header in ivory, deep teal and mustard, inspired by a classic desktop computer.</desc>
+  <rect x="1" y="1" width="1198" height="338" rx="16" fill="#EAE6D9" stroke="#CCC9BB" stroke-width="2"/>
+  <path d="M1 66H1199" stroke="#CCC9BB" stroke-width="2"/>
+  <text x="42" y="42" fill="#42625D" font-family="'Courier New',monospace" font-size="22">~/jintangme</text>
+  <circle cx="1139" cy="33" r="7" fill="#B39A43"/>
+  <text x="43" y="177" fill="#183D3A" font-family="'Courier New',monospace" font-size="88" font-weight="700" letter-spacing="-5">Jin Tang</text>
+  <rect x="476" y="170" width="38" height="9" fill="#A18A35"/>
+  <text x="47" y="234" fill="#42625D" font-family="'Courier New',monospace" font-size="28">Learning by building.</text>
+  <g stroke="#B9B6A9" stroke-width="5" stroke-linecap="round">
+    <path d="M1045 143h96M1045 161h96M1045 179h96M1045 197h96M1045 215h96"/>
+  </g>
+  <path d="M43 285H1157" stroke="#CCC9BB" stroke-width="2"/>
+  <rect x="44" y="306" width="31" height="8" rx="2" fill="#183D3A"/>
+  <rect x="81" y="306" width="31" height="8" rx="2" fill="#608A8B"/>
+  <rect x="118" y="306" width="31" height="8" rx="2" fill="#B39A43"/>
+</svg>

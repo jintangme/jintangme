@@ -1,5 +1,13 @@
-# Jin Tang
+<picture>
+  <img src="assets/profile-header.svg" alt="Jin Tang — Learning by building." width="100%">
+</picture>
 
-AI undergraduate at Beijing Normal-Hong Kong Baptist University (BNBU), interested in AI agents, blockchain, and service computing.
+### A little about me
 
-[Personal website](https://jintangme.github.io/) · [Email](mailto:tangj41824@gmail.com)
+I'm Jin, an AI undergraduate at **Beijing Normal-Hong Kong Baptist University (BNBU)**. I enjoy turning ideas into working software and learning how things work along the way.
+
+**Currently exploring** &nbsp; `AI agents` &nbsp; `Blockchain` &nbsp; `Service computing`
+
+You’ll find experiments, side projects, and things I'm figuring out here.
+
+[Personal website](https://jintangme.github.io/) &nbsp; / &nbsp; [Say hello](mailto:tangj41824@gmail.com)
