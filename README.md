@@ -2,7 +2,7 @@
 
 [Personal website](https://jintangme.github.io/) · [Email](mailto:tangj41824@gmail.com)
 
-I am an Artificial Intelligence undergraduate at Beijing Normal-Hong Kong Baptist University (BNBU). My research and development experience spans service computing, agentic systems, and applied machine learning. Alongside research, I develop full-stack systems and mobile applications.
+I am an Artificial Intelligence undergraduate at Beijing Normal-Hong Kong Baptist University (BNBU). Alongside my studies, I have gained experience through academic research, internships, and independent software projects.
 
 ### Research
 
